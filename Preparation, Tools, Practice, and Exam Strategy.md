@@ -8,10 +8,13 @@ However, for proper preparation, I have some advice:
 
 - **Take Notes**
 Document everything—your lab solutions, key observations, and any useful techniques. This will help during revision and make it easier to recall solutions during the exam.
+
 - **Complete the Full Training**
 The training is comprehensive, with hands-on labs that mirror real-world scenarios. If you can’t finish all labs before your access expires, you can supplement your learning with TryHackMe’s SOC Level 1 path.
+
 - **Understand BTL1’s Difficulty**
 BTL1 is an entry-level certification, but not an introductory one. If you’re new to cybersecurity or SOC tools, you may struggle. Make sure you have prior knowledge before attempting the exam.
+
 
 
 ## 2. Tools to Master
@@ -35,7 +38,8 @@ Tip: The exam is open book, meaning you can use AI, search engines, and external
 ## 3. Recommended TryHackMe Rooms
 
 Here are some TryHackMe Rooms that can help you practice what is expected of you as the SOC Analyst for this exam.
-Splunk basics: https://tryhackme.com/room/splunk101
+
+[Splunk basics](https://tryhackme.com/room/splunk101)
 
 [Splunk dashboards and reports](https://tryhackme.com/room/splunkdashboardsandreports)
 
@@ -58,31 +62,41 @@ Splunk basics: https://tryhackme.com/room/splunk101
 
 The exam consists of 20 questions, each worth 5 points. To maximize your score, follow these strategies:
 
-Before the Exam
+
+**Before the Exam**
 
 - Minimize distractions – Arrange for help with daily tasks so you can focus completely.
+
 
 - Mentally prepare – Get enough rest, stay hydrated, and have snacks ready.
 
 
-During the Exam
+
+**During the Exam**
 
 - Read the instructions carefully – Understanding the problem fully will save you from careless mistakes.
 
+
 - Analyze the questions – Identify key Indicators of Compromise (IOCs) and the tools required for each task.
+
 
 - Organize your workflow – Copy all questions. Group them by tool (e.g., all Splunk-related questions together).
 
+
 - Use the provided resources – Each folder has a README file. If a file asks you to read it, read it.
 
+
 - Research effectively – The lab environment does not have internet, except for Splunk. Use your personal browser for additional research. If you're stuck, use AI, search engines, or YouTube tutorials.
+
 
 - Take breaks – Stretch, drink water, and stay calm. This is a long exam, and keeping your mind fresh is essential.
 
 
-After the Exam
+
+**After the Exam**
 
 - If unsure, request a review – If you believe you answered correctly but received a low score, request a manual review. I moved from 85% to 95% this way.
+
 
 - Reflect on your experience – If you struggled with a question, study that topic afterward. Continuous learning is key in cybersecurity.
 
